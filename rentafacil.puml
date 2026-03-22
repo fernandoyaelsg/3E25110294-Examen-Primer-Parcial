@@ -1,0 +1,24 @@
+@startuml
+
+class Vehiculo
+class Moto
+class Camioneta
+class Auto
+class NumeroPlaca
+class Marca
+class Precio
+class AnioFabricacion
+class Modelo
+class Cliente
+class Dni
+class Id
+class NumeroTelefono
+class Nombre
+class Alquiler
+class InicioAlquiler
+class FinAlquiler
+Class CostoTotal
+class EstadoAlquiler
+class Registro
+
+@enduml
